@@ -43,7 +43,7 @@ const AddUser = props => {
 
 	const errorHandler = () => {
 		setError(null);
-	}
+	};
 
 	return (
 		<div>
